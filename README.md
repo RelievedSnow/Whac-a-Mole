@@ -1,7 +1,7 @@
 # Whac-a-Mole
 JavaScript Project 3 : Whac-a-mole 
 
-# In this project we learn the following JavaCsript methods.
+# In this project we learn the following JavaScript methods.
 1. .querySelector()
 2. .querySelectorAll()
 3. .forEach()
